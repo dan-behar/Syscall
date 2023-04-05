@@ -1,3 +1,9 @@
+---
+title: "Linux Syscall"
+authors: "Daniel Behar/Cruz del Cid"
+date: "13/11/2022"
+---
+
 # Syscall
 
 El objetivo de este proyecto es implementar un syscall en una versión de kernel específica, el cual debe tomar una cadena de caracteres con una expresión aritmética y debe indicar si está correctamente cerrada. Como ejemplo: {([2+2])} si está bien cerrada; {([2+2]) no está bien cerrada. 
